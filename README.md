@@ -1,7 +1,6 @@
 ![](https://github.com/Roxy-5/Informe1/blob/main/images.jpg)
 ### 🛸 Análisis de alquileres en Airbnb
-
-Análisis de datos de la tabla.
+Análisis exploratorio completo de un dataset de Airbnb, incluyendo limpieza de datos y visualizaciones.
 
 ### 🌍 Cómo usar
 
@@ -114,5 +113,6 @@ Dada la variabilidad de precios y ocupación por zona y temporada, es fundamenta
 
 7. **Gestión Profesional para Anfitriones Multipropiedad:**
 No se observa una relación directa entre el número de anuncios y la calidad de las reseñas. Los anfitriones con muchas propiedades deben apoyarse en herramientas de gestión y procesos estandarizados para asegurar una experiencia homogénea y de calidad en todos sus anuncios.
+
 
 
