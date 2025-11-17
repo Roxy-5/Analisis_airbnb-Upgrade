@@ -2,7 +2,7 @@
 ### 📊 Análisis de alquileres en Airbnb
 Análisis exploratorio completo de un dataset alemán de Airbnb, incluyendo limpieza de datos y visualizaciones.
 
-Enlace del dataset: 
+Dataset: 
 
 ### 🚀 Cómo usar
 1. Clona este repositorio.
@@ -111,4 +111,5 @@ Dada la variabilidad de precios y ocupación por zona y temporada, es fundamenta
 
 7. **Gestión Profesional para Anfitriones Multipropiedad:**
 No se observa una relación directa entre el número de anuncios y la calidad de las reseñas. Los anfitriones con muchas propiedades deben apoyarse en herramientas de gestión y procesos estandarizados para asegurar una experiencia homogénea y de calidad en todos sus anuncios.
+
 
